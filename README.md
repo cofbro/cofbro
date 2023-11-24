@@ -8,7 +8,7 @@
 
 <div align="center">
   <bold>I have </bold>
-  <a herf="https://juejin.cn/user/2283012475854910"><img src="https://cdn.jsdelivr.net/gh/Flywith24/Album/img/20201216150413.png" width="110" height="30"></a>
+  <a href="https://juejin.cn/user/2283012475854910"><img src="https://cdn.jsdelivr.net/gh/Flywith24/Album/img/20201216150413.png" width="110" height="30"></a>
   <img src="https://cdn.jsdelivr.net/gh/Flywith24/Album/img/20201216151326.png" width="120">
   <span>, the two exciting blog websites!</span>
 </div>
