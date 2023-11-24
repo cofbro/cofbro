@@ -7,9 +7,10 @@
 <h1 align="center">Hi 👋, I'm cofbro 👨‍💻</h1>
 
 <div align="center">
-  <span>I have </span>
+  <bold>I have </bold>
   <img src="https://cdn.jsdelivr.net/gh/Flywith24/Album/img/20201216150413.png" width="110" height="30">
   <img src="https://cdn.jsdelivr.net/gh/Flywith24/Album/img/20201216151326.png" width="120">
+  <span>, the two exciting blog websites!</span>
 </div>
 
 
@@ -21,14 +22,14 @@
 | [![](https://github-readme-juejin-recent-article-flywith24.vercel.app/juejin/2283012475854910/1)](https://juejin.cn/user/2283012475854910) [![](https://github-readme-juejin-recent-article-flywith24.vercel.app/juejin/2283012475854910/2)](https://juejin.cn/user/2283012475854910) [![](https://github-readme-juejin-recent-article-flywith24.vercel.app/juejin/2283012475854910/3)](https://juejin.cn/user/2283012475854910) | [![](https://github-readme-juejin-recent-article-flywith24.vercel.app/juejin/2283012475854910/4)](https://juejin.cn/user/2283012475854910) [![](https://github-readme-juejin-recent-article-flywith24.vercel.app/juejin/2283012475854910/5)](https://juejin.cn/user/2283012475854910) [![](https://github-readme-juejin-recent-article-flywith24.vercel.app/juejin/2283012475854910/6)](https://juejin.cn/user/2283012475854910)|
 
 
-### my contribution
+### 🤔 my contribution
 <div>
   <img src= "https://github-readme-stats.vercel.app/api?username=cofbro&show_icons=true"
 </div>
 
-### my langs
+### 💬 my langs
 <div>
-  <img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=cofbro&card_width=600">
+  <img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=cofbro&card_width=500">
 </div>
 
 
