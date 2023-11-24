@@ -1,6 +1,9 @@
 ### Hi there 👋
 
-[![](https://github-readme-juejin-recent-article-flywith24.vercel.app/juejin?id=2283012475854910&limit=3)](https://juejin.cn/user/2283012475854910)
+### 最近文章
+[![](https://github-readme-juejin-recent-article-flywith24.vercel.app/juejin?id=2283012475854910&limit=3&width=500&height=120)](https://juejin.cn/user/2283012475854910)
+
+![](https://github-readme-stats.vercel.app/api?username=cofbro)
 
 <!--
 **cofbro/cofbro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
