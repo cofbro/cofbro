@@ -4,7 +4,7 @@
 <!--   <img src="https://octodex.github.com/images/daftpunktocat-guy.gif" width="320" height="320">  -->
 </div>
 
-<h1 align="center">Hi 👋, I'm cofbro 👨‍💻</h1>
+<h1 align="center">Hi 👋, I'm cofbro, an Android Developer 👨‍💻</h1>
 
 <div align="center">
   <bold>I have </bold>
